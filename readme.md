@@ -28,8 +28,8 @@ This project is a **Movie Recommendation System** designed to provide personaliz
 
 ## Tech Stack
 - **Programming Language**: Python
-- **Data Processing**: Pandas
-- **Natural Language Processing**: NLTK (for data cleaning and processing)
+- **Data Processing**: Pandas (for data cleaning and processing)
+- **Natural Language Processing**: NLTK 
 
 ---
 
